@@ -45,3 +45,4 @@ If for some reason the solution using VirtualBox should not work, you can use a 
 - [Linux Live USB creator](http://www.linuxliveusb.com)
 - A [Youtube video](https://www.youtube.com/watch?v=yYMLSpBdRec) on how to use LiLi
 - [Microsoft Dreamspark](http://www.dreamspark.com/), the place to go for the Windows C++ compiler
+- [Git Tutorial](https://www.atlassian.com/git/)
